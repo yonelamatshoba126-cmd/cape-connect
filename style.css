@@ -1,0 +1,12 @@
+#about img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.event-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
